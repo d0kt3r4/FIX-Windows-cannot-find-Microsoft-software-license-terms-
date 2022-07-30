@@ -10,4 +10,4 @@ Step 5: In "Specify Disk Capacity" section, set your VM's Disk Capacity (Min:50g
 Step 6: Click to "Customize Hardware...", set RAM Memory to "2048" and set CPU to "2"and click to "Close" then click to "Finish"
 Step 7: In main screen of VMware click to Your VM, then click to "Edit Virtual machine settings"
 Step 8: Go to "CD/DVD (SATA)" tab,  then choose "USe ISO image file" option, click to "browse" and find your iso_file then click OK
-Step 9: RUN your VM and you will see issue fixed successfully
+Step 9: RUN your VM and you will see issue fixed successfully.
